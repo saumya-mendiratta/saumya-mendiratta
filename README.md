@@ -40,7 +40,7 @@
  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;  &emsp;   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saumya-mendiratta&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=saumya-mendiratta&show_icons=true&theme=gotham" alt="saumya-mendiratta" />
+   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;<img src="https://github-readme-stats.vercel.app/api?username=saumya-mendiratta&show_icons=true&theme=gotham" alt="saumya-mendiratta" />
 
   <br>
   
