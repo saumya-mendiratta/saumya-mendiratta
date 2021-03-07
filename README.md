@@ -21,15 +21,15 @@
 ------------
 **Languages and Tech-Stack:**  
 
-<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://www.pngitem.com/pimgs/m/385-3850359_icon-mongodb-logo-hd-png-download.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="35" src="https://www.pngitem.com/pimgs/m/385-3850359_icon-mongodb-logo-hd-png-download.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"></code>
 
 
 
@@ -37,7 +37,18 @@
 
 📈 **My GitHub Stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saumya-mendiratta&show_icons=true&theme=gotham" alt="saumya-mendiratta" />
+ &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;  &emsp;   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saumya-mendiratta&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=saumya-mendiratta&show_icons=true&theme=gotham" alt="saumya-mendiratta" />
+
+  <br>
+  
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saumya-mendiratta&" alt="saumya" />
+
+ 
+  
+
 
 
 
