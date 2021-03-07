@@ -44,7 +44,8 @@
 
   <br>
   
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saumya-mendiratta" alt="saumya" />
+  
+  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saumya-mendiratta&theme=dark)](https://github.com/saumya-mendiratta/github-readme-streak-stats)
 
  
   
