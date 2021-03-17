@@ -40,12 +40,11 @@
  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;  &emsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saumya-mendiratta&layout=compact&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;<img src="https://github-readme-stats.vercel.app/api?username=saumya-mendiratta&show_icons=true&theme=gotham" alt="saumya-mendiratta" />
+   &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;<img src="https://github-readme-stats.vercel.app/api?username=saumya-mendiratta&show_icons=true&theme=gotham" alt="saumya-mendiratta"/>
 
   <br>
   
-  
-  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saumya-mendiratta&theme=dark)](https://github.com/saumya-mendiratta/github-readme-streak-stats)
+
 
  
   
