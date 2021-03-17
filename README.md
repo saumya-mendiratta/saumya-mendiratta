@@ -1,8 +1,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" target="blank" width="250" height="250" />
 ![](https://visitor-badge.glitch.me/badge?page_id=saumya-mendiratta.saumya-mendiratta)
 <br>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" target="blank" width="250" height="250" />
+
 
 
 <a href="https://www.linkedin.com/in/saumya-mendiratta-44432b1b5/" target="blank"><img align="left" src="https://image.flaticon.com/icons/png/512/174/174857.png" height="30px" width="30px" /></a>
@@ -11,7 +12,9 @@
 <a href="https://www.instagram.com/saumya.mendiratta/" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" height="30px" width="30px" /></a>
 
 <br>
+<br>
 
+------------
 **Hi, I'm Saumya Mendiratta, a passionate Full Stack Web Developer and Java Programmer.**
   
   * 🔭 Currently working on **[Codeial]()**
