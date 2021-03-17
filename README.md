@@ -1,6 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" target="blank" width="250" height="250" />
+
 ![](https://visitor-badge.glitch.me/badge?page_id=saumya-mendiratta.saumya-mendiratta)
 <br>
 
