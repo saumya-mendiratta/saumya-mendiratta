@@ -37,12 +37,14 @@
 
 📈 **My GitHub Stats**
 
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saumya-mendiratta&layout=compact&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-   <img src="https://github-readme-stats.vercel.app/api?username=saumya-mendiratta&show_icons=true&theme=gotham" alt="saumya-mendiratta"/>
-
+<p align=center>
+  <a href="https://github.com/saumya-mendiratta/github-readme-stats" title="Go to Source">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=saumya-mendiratta&show_icons=true&theme=gotham">
+  </a>
+  <a href="https://github.com/saumya-mendiratta/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumya-mendiratta&layout=compact&langs_count=10&theme=dark" />
+  </a>
+</p>
   <br>
   
 
