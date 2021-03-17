@@ -41,10 +41,10 @@
 📈 **My GitHub Stats**
 
 <p align=center>
-  <a href="https://github.com/saumya-mendiratta/github-readme-stats" title="Go to Source">
+  <a href="https://github-readme-stats.vercel.app/api?username=saumya-mendiratta&show_icons=true&theme=gotham">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=saumya-mendiratta&show_icons=true&theme=gotham">
   </a>
-  <a href="https://github.com/saumya-mendiratta/github-readme-stats">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=saumya-mendiratta&layout=compact&langs_count=10&theme=dark">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumya-mendiratta&layout=compact&langs_count=10&theme=dark" />
   </a>
 </p>
