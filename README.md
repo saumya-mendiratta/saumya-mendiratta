@@ -5,14 +5,12 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=saumya-mendiratta.saumya-mendiratta)
 <br>
 
-
-
 <a href="https://www.linkedin.com/in/saumya-mendiratta-44432b1b5/" target="blank"><img align="left" src="https://image.flaticon.com/icons/png/512/174/174857.png" height="30px" width="30px" /></a>
 <a href="https://www.hackerrank.com/saumya2828" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height="30px" width="30px"/></a>
 <a href="https://leetcode.com/saumya2828/" target="blank"><img align="left" src="https://raw.githubusercontent.com/jdneo/vscode-leetcode/master/resources/LeetCode.png" height="30px" width="30px" /></a>
 <a href="https://www.instagram.com/saumya.mendiratta/" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" height="30px" width="30px" /></a>
 
-<br>
+
 <br>
 
 ------------
@@ -33,6 +31,7 @@
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="35" src="https://www.pngitem.com/pimgs/m/385-3850359_icon-mongodb-logo-hd-png-download.png"></code>
+<code><img height="35" src="https://blog.amt.in/wp-content/uploads/2017/12/e16da876-c2fd-4eb8-ae72-4b193c534938-Edited.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"></code>
 
 
