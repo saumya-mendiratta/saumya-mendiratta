@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/saumya-mendiratta-44432b1b5/" target="blank"><img align="left" src="https://image.flaticon.com/icons/png/512/174/174857.png" height="30px" width="30px" /></a>
 <a href="https://www.hackerrank.com/saumya2828" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height="30px" width="30px"/></a>
 <a href="https://leetcode.com/saumya2828/" target="blank"><img align="left" src="https://raw.githubusercontent.com/jdneo/vscode-leetcode/master/resources/LeetCode.png" height="30px" width="30px" /></a>
-<a href="https://www.codechef.com/users/saumya2828" target="blank"><img align="left" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" height="30px" width="30px" /></a>
+<a href="https://www.codechef.com/users/sam_2828" target="blank"><img align="left" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" height="30px" width="30px" /></a>
 <a href="https://www.instagram.com/saumya.mendiratta/" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" height="30px" width="30px" /></a>
 
 
