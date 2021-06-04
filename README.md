@@ -15,7 +15,7 @@
 <br>
 
 ------------
-**Hi, I'm Saumya Mendiratta, a passionate Full Stack Web Developer and Java Programmer.**
+**Hi, I'm Saumya Mendiratta, a passionate Full Stack Web Developer and Java Programmer**
   
   * 🔭 Currently working on **[Codeial](https://github.com/saumya-mendiratta/Codeial)**
   * 📄 Get to know about my work on my **[Portfolio Website](https://saumya-mendiratta.github.io/Portfolio-Website/)**
